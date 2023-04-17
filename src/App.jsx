@@ -4,6 +4,8 @@ function App() {
     <div className="App">
       Bill
 
+      Teste
+
       Select Tip %
       5%
       10%
