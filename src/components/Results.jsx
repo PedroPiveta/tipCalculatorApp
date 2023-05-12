@@ -13,7 +13,7 @@ const Results = () => {
                 </div>
             </div>
 
-            <button>Reset</button>
+            <button type="reset">Reset</button>
         </div>
      );
 }
